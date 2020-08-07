@@ -14,11 +14,11 @@ Things done in Exploratory Data Analysis-
 
 Data provided to work on-
 
-gender                                     : Gender of the student
-race/ethnicity                             : Race of the Student As Group A/B/C
-parental level of education                : What is the education Qualification of Students Parent
-lunch                                      : Whether the lunch is Standard type/Free lunch or Some discounted lunch
-test preparation course                    : Whether Student has Taken or not and Completed
-math score                                 : Scores in Maths
-reading score                              : Scores in Reading
-writing score                              : Scores in Writing
+1.gender                                     : Gender of the student
+2.race/ethnicity                             : Race of the Student As Group A/B/C
+3.parental level of education                : What is the education Qualification of Students Parent
+4.lunch                                      : Whether the lunch is Standard type/Free lunch or Some discounted lunch
+5.test preparation course                    : Whether Student has Taken or not and Completed
+6.math score                                 : Scores in Maths
+7.reading score                              : Scores in Reading
+8.writing score                              : Scores in Writing
